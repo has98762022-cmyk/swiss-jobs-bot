@@ -1,0 +1,12 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Secrets
+serviceAccountKey.json
+client_secret_*.json
+.env
+
+# Streamlit cache
+.streamlit/
